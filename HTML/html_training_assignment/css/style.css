@@ -1,0 +1,172 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.main {
+    display: flex;
+    width: 100%;
+    height: 100%;
+    flex-wrap: wrap; 
+    justify-content: center;
+    align-items: center;
+
+
+}
+
+div>button {
+
+    background: #C8242F 0% 0% no-repeat padding-box;
+    border-radius: 23px;
+    color: #FFFFFF;
+    opacity: 1;
+    top: 527px;
+    left: 906px;
+    width: 138px;
+    height: 45px;
+
+}
+.rok > button {
+    margin-top: 20px;
+}
+
+.first {
+    margin-top: 72px;
+    width: 500px;
+   
+}
+
+.first .hero {
+   width: 100%;
+   width: 100%;
+    margin-left: 166px;
+    border-radius: 50%;
+    flex-wrap: wrap; 
+   
+}
+
+.sam {
+    margin-bottom: 10px;
+    height: 100px;
+    width: 250px;
+}
+
+.form>h2 {
+    margin-bottom: 10px;
+}
+
+.rok>span {
+    margin-top: 20px;
+    margin-left: 100px;
+
+}
+
+.ram>h3 {
+    font-style: normal;
+    cursor: pointer;
+    margin-top: 10px;
+    display: flex;
+
+}
+
+.ram > h3 > span {
+    color: red;
+    margin-left: 30px;
+    font-weight: normal;
+}
+
+
+.rat {
+    display: flex;
+    flex-direction: column;
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+
+}
+
+
+   
+
+
+.form>input {
+    top: 372px;
+    left: 907px;
+    width: 429px;
+    height: 49px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 1px solid #ADADAD;
+    border-radius: 5px;
+    opacity: 1;
+}
+
+.second {
+    margin-left: 450px;
+    width: 500px;
+    margin-top: 106px;
+
+}
+.ghf{
+    margin-top: 20px;
+}
+
+.rrm  {
+    height: 30px;
+    margin-top: 10px;
+    width: 350px;
+    border-radius: 6px;
+    padding: 10px;
+}
+.form > h2 >span{
+    color: red;
+    font-weight: 900;
+
+}
+.form > h3{
+    font-weight: none;
+}
+
+
+
+
+
+
+
+@media  only screen and (max-width:620px) {
+  .main{
+    padding-left:-52px;
+    margin-top: 4px;
+    justify-items: center;
+  }
+
+  
+    .first .hero{
+        width: 500px;
+        
+    }
+
+    
+}
+
+.second , .rat, .form, .ghf, .rrm, .rok , .ram{
+  
+    padding-right: 50px;
+
+}
+
+.rat> img {
+    padding-left: 5px;
+
+}
+
+.rok > span {
+    font-size: large;
+   
+   
+}
+/* responsive ....................................................................... */
+
+
+

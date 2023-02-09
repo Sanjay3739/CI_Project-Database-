@@ -1,0 +1,433 @@
+*{
+    margin: 02px;
+    padding: 02px; 
+
+
+}
+.todo{
+    margin-left: 10px;
+}
+
+
+.rat{
+    
+    margin-left: 10px;
+    margin-right: 50px;
+   
+}
+.san > input{
+    margin-top: 8px;
+    height: 25px;
+    width: 200px;
+    border-radius: 5px;
+}
+.san > input{
+    border: none;
+    border-radius: 10px;
+}
+.san {
+    display: flex;
+    height: 50px;
+    width: 1390px;
+    flex-direction: row;
+    background-color: aliceblue;
+}
+.tet{
+    margin-left: 650px;
+    display: flex;
+}
+.tet > p{
+    margin: 5px;
+}
+
+.san > input {
+    padding: 5px;
+}
+
+
+
+.sr{
+    display: flex;
+  
+    
+}
+.got{
+    display: flex;
+    flex-direction: column;
+    background-color: aliceblue;
+    height: 1300px;
+    width: 180px;
+
+
+}
+.ms{
+    display: flex;
+}
+
+
+
+.mr{
+    width: 1260px;
+    padding: 1px;
+    height:1300px;
+    background-color: aliceblue;
+}
+.mt {
+    display: flex;
+    background-color: rgb(238, 209, 209);
+   
+}
+.po > p{
+    color: rgb(228, 57, 57);
+}
+.ms > img{
+  
+   height: 23px;
+
+   width: 23px;
+}
+.mt > img{
+   
+    height: 23px;
+    width: 23px;
+ }
+ .mu{
+    display: flex;
+ }
+ .mu > img{
+    height: 23px;
+    width: 23px;
+  
+    
+
+ }
+ .mv{
+    display: flex;
+ }
+ .mv > img{
+    height: 23px;
+    width: 23px;
+   
+ }
+ .mw{
+    display: flex;
+ }
+ .mw > img{
+    height: 23px;
+    width: 23px;
+  
+ }
+ .mx{ 
+    display: flex;
+ }
+ .mx > img{
+    height: 23px;
+    width: 23px;
+   
+ }
+ .mz{
+    display: flex;
+ }
+ .mz > img{
+    height: 23px;
+    width: 23px;
+ 
+ }
+
+ .sf{
+    border-radius: 2px;
+    display: flex;
+ }
+ .aq{
+    display: flex;
+   font-size:14px ;
+   justify-content: 40px;
+  
+    
+   
+ }
+ .aq> input{
+    margin: 5px;
+ }
+ 
+ 
+
+ .ab > input{
+    width: 800px; 
+    height: 30px;
+    padding-left:10px;
+    margin-top: 10px;
+    margin-left: 8px;
+    background-color: aliceblue;
+    border-radius: 4px;
+ }
+ .ab > h3 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+  font-size: 25px;
+  
+
+ } .mr >h2{
+     font-size: 40px;
+     margin-top: 10px;
+     padding-left: 20px;
+ }
+ .ac{
+    padding-left: 50px;
+ }
+ .ab> span >  input {
+    height: 100px;
+    width: 800px; 
+    background-color: aliceblue;
+    margin-top: 10px;
+    padding-left: 10px;
+    border-radius: 4px;
+ }
+
+
+
+
+.ah>fieldset{
+    width: 395px;
+    margin-top: -10px;
+    
+}
+
+ .ad{
+
+    display: flex;
+    
+   
+ }
+ .ae> input{
+width: 390px;
+padding-left: 10px;
+border-radius: 4px;
+height: 38px;
+background-color: aliceblue;
+ }
+
+ .ah > input {
+    width: 390px;
+    padding-left: 10px;
+height: 40px;
+border-radius: 4px;
+background-color: aliceblue;
+
+ }
+
+ .af >h3{
+    font-size: 25px;
+ }
+
+
+
+
+ .ai >h3{
+    font-size: 25px;
+ }
+ .az{
+   display: flex;
+ }
+ .ai > input{
+    width: 258px;
+    padding-left: 10px;
+    height: 30px;
+    
+ }
+.az> fieldset{
+   width: 200px;
+   border-radius: 10px;
+}
+
+ .mq > h3{
+    font-size: 25px;
+ }
+
+ .az > input{
+    padding-left: 10px;
+    border-radius: 10px;
+    margin-top: 14px;
+    height: 38px;
+    width: 190px;
+    background-color: aliceblue;
+ }
+
+ .az > select{
+    padding-left: 10px;
+    border-radius: 10px;
+    margin-top: 14px;
+    height: 45px;
+    width: 193px;
+     background-color: aliceblue;
+ }
+ .cv> span{
+    font-size: 12px;
+    color: red;
+    padding-left: 10px;
+    
+ }
+ .cv {
+    display: flex;
+ }
+ .cv > p{
+    padding-left: 120px;
+    font-size: 12px;
+    color: rgb(141, 137, 137);
+    font-style: bold;
+ }
+
+ .lx > h3 {
+     font-size: 22px;
+ }
+
+ .vg{
+    padding-left: 9px;
+ }
+ .vg >button{
+        border-radius: 5px;
+        height:40px;
+ }
+ .upload > img{
+    margin-top: -4px;
+ }
+ .vc{
+    padding-left: 10px;
+    font-size: 13px;
+ }
+ .aq{
+    padding-left: 10px;
+ }
+
+
+ .bv > h3{
+    font-size: 16px;
+    padding-left: 10px;
+ }
+ .as{
+    padding-left: 12px;
+ }
+ .vn ,.cv{
+   
+    display: flex;
+
+ }
+.vn> button{
+    background-color: #ffff;
+    border-color: #C8242F;
+}
+.cv > button{
+    background-color: #ffff;
+    border-color: aqua;
+}
+.vn > button{
+      
+  width: 400px;
+  padding-left: 20px;
+  height: 40px;
+ 
+ }
+ .cv  > button {
+    width: 400px;
+    height: 40px;
+   
+ }
+
+ .sm > h3{
+    padding-left: 10px;
+    font-size: 16px  ;
+ }
+ .ng{
+    padding-left: 10px;
+ }
+
+ .mc >h3{
+    font-size: 15px;
+    padding-left: 10px;
+ }
+
+ .bn{
+    padding-left: 10px;
+    
+ }
+ .bn >  .Primary{
+
+    border-radius: 15px;
+    width: 100px;
+    margin-right: 10px;
+    height: 30px;
+    color: #ffff;
+    background: #C8242F 0% 0% no-repeat padding-box;
+ }
+
+ .bn > .Secondary{
+
+    border-radius: 15px;
+    width: 100px;
+    margin-right: 10px;
+    height: 30px;
+    border-color:#C8242F;
+    color: #C8242F;
+    background:#ffff;
+   
+ }
+ .la > h3{
+    font-size: 15px;
+    padding-left: 10px;
+ }
+ .tab{
+    padding-left: 12px;
+ }
+ .fd > p {
+    color: #3e3e3e;
+ }
+ .secondary{
+    padding: 10px;
+ }
+ .nb  > img {
+    width:  20px;
+
+   
+    height: 20px;
+  
+ }
+ 
+   
+ 
+.nb{
+    display: flex;
+  
+}
+.xv{
+    display: flex;
+}
+.xv  > img {
+
+    width:  20px;
+   
+    height: 20px;
+}
+ 
+.cx{
+    display: flex;
+}
+.px{
+    display: flex;
+}
+.cx  > img {
+
+    width:  20px;
+   
+    height: 20px;
+}
+.px >img{
+    width:  20px;
+   
+    height: 20px;
+}
+
+.px , .cx{
+    padding-left: 20px;
+}
+
+
